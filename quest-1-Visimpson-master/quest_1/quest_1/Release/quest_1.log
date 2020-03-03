@@ -1,0 +1,8 @@
+﻿  engine.cpp
+c:\users\paris\desktop\school folder\spring2020\quest-1-visimpson-master\quest-1-visimpson-master\quest_1\quest_1\source\engine.cpp(105): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  GUI.cpp
+c:\users\paris\desktop\school folder\spring2020\quest-1-visimpson-master\quest-1-visimpson-master\quest_1\quest_1\source\gui.cpp(279): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  main.cpp
+c:\users\paris\desktop\school folder\spring2020\quest-1-visimpson-master\quest-1-visimpson-master\quest_1\quest_1\source\main.cpp(47): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Texture.cpp
+c:\users\paris\desktop\school folder\spring2020\quest-1-visimpson-master\quest-1-visimpson-master\quest_1\quest_1\source\texture.cpp(81): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
